@@ -1,0 +1,17 @@
+body {
+    background-image:url("https://lh3.googleusercontent.com/proxy/Bp75xTOb6Y9R3stQFtnHohocRqGKp5PBTbgRYrY3PsdFT8ikxL80OTqwMBGa2hyLZ1vm1HY3iDJ3HWRJPNOi3XHrZyA-FoeoB4aAHA7t_skWNd85y1TPrbtUvevM6j8pVfLxuLJqVT9RtKCGiPD_QWF4jjWCDWXp9oV4O0hWQQHQkGGbm91rmlHSc5BLRpsEBxPvCB9RF8qBtY0p93jLwaoZp0My3VVlwdk_Gg");
+}
+
+img { 
+    height:400px;
+    width:300px;
+}
+h2 { font-family: 'Modak', cursive;
+}
+
+p { 
+    font-family: 'Cookie', cursive;
+    color:red;
+    
+}
+    
